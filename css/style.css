@@ -1,0 +1,9 @@
+@import url("normalize.css");
+
+body {
+    padding: 10px;
+}
+
+.pure-button {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
